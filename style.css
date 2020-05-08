@@ -1,0 +1,328 @@
+
+*{
+margin-top: 0px;
+margin-right: 0px;
+margin-left: 0px;
+padding-top: 0px;
+padding-left: 0px;
+padding-right: 0px;
+
+}
+
+body{
+background-color: #f7f9f9    
+}
+
+.main {
+display: flex;
+background-color: #316dc3;
+justify-content: space-around;
+font-size: large;
+padding-top: 0px;
+padding: 20px;
+
+}
+.txt {
+color: whitesmoke;
+text-decoration: solid;
+font-family: Verdana, Geneva, Tahoma, sans-serif;    
+}
+
+.one {
+width: 20px;
+margin-right: 10px;    
+}
+.two {
+    width: 20px;
+    margin-right: 10px;    
+    }
+.three {
+        width: 20px;
+        margin-right: 10px;    
+        }
+.four {
+     width: 20px;
+    margin-right: 10px;    
+    }
+.five {
+     width: 20px;
+    margin-right: 10px;    
+     }
+ul li {
+ list-style: none; 
+display: inline;
+
+}
+
+ 
+ul li :hover {
+background-color: #316dc3;
+border-radius: 30px;
+
+
+}       
+  .list {
+    display: flex;    
+    justify-content: space-around;
+    
+}
+
+.img{
+ width: 240px;
+}
+
+.hom {
+border-radius: 25px;
+background-color: #316dc3;
+width: 90px;
+height: 40px;
+color: whitesmoke;
+font-size: larger;
+font-family: Verdana, Geneva, Tahoma, sans-serif
+
+}
+
+.bar{
+padding-top: 30px;
+text-align: center;
+}
+li{
+padding: 10px;
+
+
+}
+
+a{
+text-decoration: none;
+color: black;
+font-weight: bold;
+padding-left: 10px;
+padding-right: 10px;
+padding-bottom: 8px;
+padding-top: 8px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#carouselExampleControls{
+margin-top: -30px;  
+}
+marquee {
+background-color: lightpink; 
+height: 40px;
+margin-top: 10px;
+
+}
+.container{
+color: green;
+font-weight: bolder;
+font-size: large;
+}
+ 
+.int{
+color: #316dc3;
+font-weight: bolder;
+align-content: center;  
+margin-left: 570px;
+
+}
+
+.tro{
+color: green; 
+font-weight: bolder; 
+}
+h2{
+ margin-top: 50px;
+ font-weight: bolder;
+ font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+.pic{
+margin-left: 645px;  
+}
+
+.paragraph{
+text-align: justify;
+margin-left: 160px;
+padding-right: 160px; 
+}
+
+.sec{
+background-color: blue; 
+height:250px;
+display: flex;
+color: white;
+text-align: center;
+font-weight: 400;
+}
+
+.food {
+height: 40px;
+margin-top: 10px;   
+}
+.steth{
+  height: 40px;
+  margin-top: 10px;   
+  }
+.section{
+  padding-top: 40px;
+  padding-left: 80px;
+}
+
+.edu{
+  height: 40px;
+  margin-top: 10px;   
+  }
+.family{
+  height: 40px;
+  margin-top: 10px;   
+  }
+
+
+
+.section1{
+  padding-top: 40px;
+  padding-left: 50px;  
+}
+
+.section2{
+  padding-top: 40px;
+  padding-left: 70px;  
+}
+.section3{
+  padding-top: 40px;
+  padding-left: 70px;
+  }
+
+
+  .fontA{
+color: lime;
+  }
+
+  .fontB{
+color: lime;  
+}
+
+.fontc{
+  color: lime;  
+  }
+  
+  .fontD{
+  color: lime;  
+  }
+
+  .fontE{
+  text-align: center;
+  padding-top: 20px;  
+  }
+  .fontF{
+  color: green;  
+  }
+  
+  
+  .head{
+  display: flex;
+justify-content: space-evenly; 
+ margin-top: 50px;
+ text-align: center;
+ color: #316dc3;
+ margin-right: 90px; 
+ margin-left: 90px;  
+}
+
+.card{
+  box-shadow: 2px 2px 2px 2px darkcyan;
+ 
+
+}
+
+.card-img-top {
+  width: 80px; 
+margin-left: 130px;
+margin-top: 30px;
+  }
+
+  .subhead{
+   display: flex;
+   justify-content: space-evenly; 
+  text-align: center;
+margin-top: 30px;
+color: #316dc3;
+margin-right: 90px; 
+margin-left: 90px; 
+}
+
+.row{
+margin-left: 0px; 
+margin-right: 0px;
+padding-right: 0px;
+margin-top: 20px;
+}
+
+
+
+.col-md-5{
+border: #316dc3 1px solid;
+width: 25px;
+height: 80px;
+text-align: center;
+background-color: lightgray;
+padding-top: 22px;
+
+
+}
+
+.col-4{
+color: #316dc3;
+padding-top: 20px;
+display: inline-block;
+
+}
+
+.col-8{
+color: #316dc3;
+padding-left: 140px;
+padding-top: 20px;
+}
+
+.mark1{
+width: 350px;
+height: 220px;
+display: inline-block;
+background-color: ivory;
+scroll-behavior: smooth;
+}
+
+.col-md-2{
+margin-right: 30px;  
+}
+
+
+footer{
+background-color: teal;
+margin-top: 30px; 
+color: aliceblue; 
+}
+
+.col-md-4{
+margin-top: 40px;
+padding-left: 80px;
+}
+
+
+
+.final ol{
+list-style: none;
+padding-right: 10px;
+}
+
+.footer-bottom{
+width: 100%;
+height: auto;
+background-color: rgb(91, 138, 224);
+margin: auto;
+padding: 5px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-weight: normal;
+color: white;
+text-align: justify;
+text-align: center;
+}
